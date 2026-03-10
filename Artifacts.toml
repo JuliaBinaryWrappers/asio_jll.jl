@@ -1,6 +1,6 @@
 [asio]
-git-tree-sha1 = "db184363758a180d23bff31586eccb7db7612118"
+git-tree-sha1 = "c46fd8d39b2c9305ab1519a6f95ed8370b9e43fb"
 
     [[asio.download]]
-    sha256 = "3505c40068c7d8a3db81502e4485f3bc49f778e063a7a8302c47f155bfddf193"
-    url = "https://github.com/JuliaBinaryWrappers/asio_jll.jl/releases/download/asio-v1.36.0+0/asio.v1.36.0.any.tar.gz"
+    sha256 = "a95a6aff80deddd3edfc50679e1f4135135ab6edc65edb28ce89b93a7a3b3e9c"
+    url = "https://github.com/JuliaBinaryWrappers/asio_jll.jl/releases/download/asio-v1.18.1+0/asio.v1.18.1.any.tar.gz"
